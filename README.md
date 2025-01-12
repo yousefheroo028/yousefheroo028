@@ -53,9 +53,7 @@
 
 <!--- trophy (start) -->
 <div align=center>
-  <a href="" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=yousefheroo028&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
 </div>
 <!--- trophy (start) -->
 </p>        
@@ -70,9 +68,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,clion,cmake,github,html,java,js,py,vscode&perline=14" />
-  </a>
 </p>
 
 
