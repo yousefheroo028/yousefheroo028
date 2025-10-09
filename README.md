@@ -20,7 +20,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently atudying at **Faculty of Computers and Artificial Intelligence**.
+- 🔭 I’m currently studying at **Faculty of Computers and Artificial Intelligence**.
 
 - 🌱 I’m currently learning **How to think in best way for least effort**.
 
